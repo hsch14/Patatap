@@ -58,7 +58,7 @@ function reset() {
   group.rotation = Math.random() * TWO_PI;
 
   const radius = animations.min_dimension / 3;
-  const bubbleRadius = animations.min_dimension / 90;
+  const bubbleRadius = animations.min_dimension / 100;
 
   for (let i = 0; i < circles.length; i++) {
 
