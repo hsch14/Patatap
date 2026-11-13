@@ -10,7 +10,7 @@ let direction = true;
 let animate_ins = [], animate_outs = [];
 
 const options = { in: 0, out: 0 };
-const amount = 24;
+const amount = 48;
 const last = amount - 1;
 const circles = range(amount).map((i) => {
 
